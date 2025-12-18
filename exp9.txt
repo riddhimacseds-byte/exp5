@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bye bye
+=======
+hello world
+>>>>>>> parent of 64ce650 (c2)
